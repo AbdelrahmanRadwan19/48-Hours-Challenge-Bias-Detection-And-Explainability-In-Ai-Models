@@ -1,8 +1,11 @@
 # OUTPUTS
 OUTPUTS
 BERT Model Accuracy: 0.8399999737739563 - loss: 0.4183
+
 Demographic Parity: 0.051920341394025626
+
 Equal Opportunity Difference: -0.018477043673012394
+
 Average Odds Difference: 0.007644595046610685
 
 
